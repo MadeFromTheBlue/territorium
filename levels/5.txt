@@ -1,0 +1,20 @@
+# width / height
+9
+# tile types count
+3
+# visual diameter
+9
+# tutorial?
+f
+# shuffle?
+t
+#--------|
+   RRR   |
+   220   |
+RRR1!2R2R|
+RRRR010RR|
+RRRR0RRRR|
+RRRR0RRRR|
+RRR2.2RRR|
+   RRR   |
+   RRR   |
